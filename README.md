@@ -2,6 +2,7 @@
 # HR Analytics Dashboard using Power BI
 
 [Dashboard] : https://drive.google.com/file/d/17I_OcgqQKdyZmViYDaDFtN_QlFCfREDf/view?usp=drive_link
+
 [HR Analytics dashboard] : https://github.com/Saloni-BA/HR-Analytics-Dashboard-Power-BI/blob/main/HR_Analytics.pbix
 
 ## Objective
