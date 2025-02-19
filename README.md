@@ -1,6 +1,9 @@
 
 # HR Analytics Dashboard using Power BI
 
+[Dashboard] : https://drive.google.com/file/d/17I_OcgqQKdyZmViYDaDFtN_QlFCfREDf/view?usp=drive_link
+[HR Analytics dashboard] : https://github.com/Saloni-BA/HR-Analytics-Dashboard-Power-BI/blob/main/HR_Analytics.pbix
+
 ## Objective
 
 The objective of this project is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization.
@@ -60,6 +63,6 @@ Throughout this project, I've had the chance to:
 5. **Salary Slab wise Attrition**: The salary upto 5k has the maximum attrition.
 6. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 26-35 years 116 which is maximum among the other age groups.
 
- [Dashboard] https://drive.google.com/file/d/17I_OcgqQKdyZmViYDaDFtN_QlFCfREDf/view?usp=drive_link
+[Dashboard] : https://drive.google.com/file/d/17I_OcgqQKdyZmViYDaDFtN_QlFCfREDf/view?usp=drive_link
 
-![HR Analytics dashboard] 
+[HR Analytics dashboard] : https://github.com/Saloni-BA/HR-Analytics-Dashboard-Power-BI/blob/main/HR_Analytics.pbix
